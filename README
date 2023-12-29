@@ -1,0 +1,24 @@
+# Rock, Paper, Scissors Game
+
+This game was quite simple to make in python code. All it took was some logic and a little bit of planning.
+
+## Requirements to play
+
+- To play the game you have to download python 3.11 if you don't have it.
+- Then, run python3 script.py in your Windows or Mac terminal (if you don't know how to, look it up on YouTube)
+
+## How to play Rock, Paper Scissors
+You start play either choosing rock, paper or scissors. After the bot will pick randomly from rock, paper scissors.
+
+To determine the winner, follow this list:
+
+- Rock beats Scissors
+- Paper beats Rock
+- Scissors beats Paper
+
+## About
+
+The python script I created was a portfolio project in a Computer Science course within the website Codecademy. I learned a lot of things of the Codecademy platform when creating these projects.
+
+## Programming Languages Used
+- Python 3.11
