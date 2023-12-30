@@ -2,7 +2,7 @@ import random;
 import time;
 import sys;
 
-choice = input("\nRock, Paper and Scissors\n").lower();
+choice = input("\nRock, Paper or Scissors\n").lower();
 
 # check if choice doesn't match rock, paper and scissors
 while choice != "rock" and choice != "paper" and choice != "scissors":
