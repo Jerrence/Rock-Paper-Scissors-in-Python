@@ -41,14 +41,14 @@ if choice == "paper":
     if bot_choice == "scissors":
         print_loss();
     elif bot_choice == "rock":
-        print(print_victory);
+        print_victory();
 
 # choice = "scissors"
 if choice == "scissors":
     if bot_choice == "rock":
         print_loss();
     elif bot_choice == "paper":
-        print_loss();
+        print_victory();
 
 # if both choices are equal
 if choice == bot_choice:
